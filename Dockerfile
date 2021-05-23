@@ -1,2 +1,2 @@
-FROM node:12.16.0-alpine
+ROM registry.example.com/proxy-cache/library/node:12.19.1
 RUN something
