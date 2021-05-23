@@ -1,2 +1,2 @@
-FROM registry.example.com/proxy-cache/library/node:12.19.1
+FROM registry.example.com/proxy-cache/library/node:12.22.1
 RUN something
