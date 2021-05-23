@@ -1,2 +1,6 @@
 {
+  "packageRules": [{
+    "matchDataTypes": ["docker"],
+    "registryUrls": ["https://docker.io"]
+  }]
 }
